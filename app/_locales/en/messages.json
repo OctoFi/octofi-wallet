@@ -1024,7 +1024,7 @@
     "message": "The connection status button shows if the website you’re visiting is connected to your currently selected account."
   },
   "OctoFiDescription": {
-    "message": "Connecting you to Ethereum and the Decentralized Web."
+    "message": "Earn free money while using DeFi."
   },
   "OctoFiSwapsOfflineDescription": {
     "message": "OctoFi Swaps is undergoing maintenance. Please check back later."
@@ -2160,7 +2160,7 @@
     "message": "Unlock"
   },
   "unlockMessage": {
-    "message": "The decentralized web awaits"
+    "message": "Earn free money while using DeFi"
   },
   "unrecognizedChain": {
     "message": "This custom network is not recognized. We recommend that you $1 before proceeding",
