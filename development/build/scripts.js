@@ -14,7 +14,7 @@ const terser = require('gulp-terser-js');
 const babelify = require('babelify');
 const brfs = require('brfs');
 
-const conf = require('rc')('metamask', {
+const conf = require('rc')('octofi', {
   INFURA_PROJECT_ID: process.env.INFURA_PROJECT_ID,
   SEGMENT_HOST: process.env.SEGMENT_HOST,
   SEGMENT_WRITE_KEY: process.env.SEGMENT_WRITE_KEY,
@@ -332,7 +332,7 @@ function createScriptTasks({ browserPlatforms, livereload }) {
           : conf.INFURA_PROJECT_ID,
         SEGMENT_HOST: conf.SEGMENT_HOST,
         // When we're in the 'production' environment we will use a specific key only set in CI
-        // Otherwise we'll use the key from .metamaskrc or from the environment variable. If
+        // Otherwise we'll use the key from .octofirc or from the environment variable. If
         // the value of SEGMENT_WRITE_KEY that we envify is undefined then no events will be tracked
         // in the build. This is intentional so that developers can contribute to MetaMask without
         // inflating event volume.

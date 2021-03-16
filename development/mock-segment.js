@@ -35,7 +35,7 @@ function onError(error) {
  * variable or config entry when building MetaMask.
  *
  * For example, to build MetaMask for use with this mock Segment server, you could set the
- * following values in `.metamaskrc` before building:
+ * following values in `.octofirc` before building:
  *
  * SEGMENT_HOST='http://localhost:9090'
  * SEGMENT_WRITE_KEY=FAKE
