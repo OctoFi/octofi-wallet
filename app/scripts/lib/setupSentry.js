@@ -9,7 +9,7 @@ const METAMASK_DEBUG = process.env.METAMASK_DEBUG;
 const METAMASK_ENVIRONMENT = process.env.METAMASK_ENVIRONMENT;
 /* eslint-enable prefer-destructuring */
 const SENTRY_DSN_DEV =
-  'https://f59f3dd640d2429d9d0e2445a87ea8e1@sentry.io/273496';
+  'https://5583411f490746b387e2f614cf47d5d4@o550405.ingest.sentry.io/5674013';
 
 // This describes the subset of Redux state attached to errors sent to Sentry
 // These properties have some potential to be useful for debugging, and they do

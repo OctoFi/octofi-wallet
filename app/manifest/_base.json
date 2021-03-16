@@ -1,5 +1,5 @@
 {
-  "author": "https://metamask.io",
+  "author": "https://octo.fi",
   "background": {
     "scripts": [
       "globalthis.js",
@@ -21,7 +21,7 @@
       "128": "images/icon-128.png",
       "512": "images/icon-512.png"
     },
-    "default_title": "MetaMask",
+    "default_title": "OctoFi",
     "default_popup": "popup.html"
   },
   "commands": {
