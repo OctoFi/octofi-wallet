@@ -1014,22 +1014,22 @@
   "message": {
     "message": "Message"
   },
-  "OctoFiConnectStatusParagraphOne": {
+  "metaMaskConnectStatusParagraphOne": {
     "message": "You now have more control over your account connections in OctoFi."
   },
-  "OctoFiConnectStatusParagraphThree": {
+  "metaMaskConnectStatusParagraphThree": {
     "message": "Click it to manage your connected accounts."
   },
-  "OctoFiConnectStatusParagraphTwo": {
+  "metaMaskConnectStatusParagraphTwo": {
     "message": "The connection status button shows if the website you’re visiting is connected to your currently selected account."
   },
-  "OctoFiDescription": {
+  "metaMaskDescription": {
     "message": "Earn free money while using DeFi."
   },
-  "OctoFiSwapsOfflineDescription": {
+  "metaMaskSwapsOfflineDescription": {
     "message": "OctoFi Swaps is undergoing maintenance. Please check back later."
   },
-  "OctoFiVersion": {
+  "metaMaskVersion": {
     "message": "OctoFi Version"
   },
   "metametricsCommitmentsAllowOptOut": {
