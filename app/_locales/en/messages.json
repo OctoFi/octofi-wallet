@@ -1023,13 +1023,13 @@
   "metaMaskConnectStatusParagraphTwo": {
     "message": "The connection status button shows if the website you’re visiting is connected to your currently selected account."
   },
-  "metaMaskDescription": {
+  "metamaskDescription": {
     "message": "Earn free money while using DeFi."
   },
-  "metaMaskSwapsOfflineDescription": {
+  "metamaskSwapsOfflineDescription": {
     "message": "OctoFi Swaps is undergoing maintenance. Please check back later."
   },
-  "metaMaskVersion": {
+  "metamaskVersion": {
     "message": "OctoFi Version"
   },
   "metametricsCommitmentsAllowOptOut": {
