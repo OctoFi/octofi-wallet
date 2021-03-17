@@ -1,3 +1,8 @@
+// copy 3D image
+const path = require('path');
+const fs = require('fs-extra');
+const glob = require('fast-glob');
+
 const gulp = require('gulp');
 const watch = require('gulp-watch');
 const pify = require('pify');
@@ -24,6 +29,14 @@ const conf = require('rc')('octofi', {
 const baseManifest = require('../../app/manifest/_base.json');
 
 const packageJSON = require('../../package.json');
+
+const copyTargets = [
+  {
+    src: `./development/override/fox.json`,
+    dest: `./node_modules/@metamask/logo/fox.json`,
+  },
+];
+
 const {
   createTask,
   composeParallel,
@@ -115,6 +128,18 @@ function createScriptTasks({ browserPlatforms, livereload }) {
       );
     });
 
+    // copy override scripts to node_modules
+    const copyOverrideScriptsSubTask = createTask(
+      `${taskPrefix}:override`,
+      composeParallel(
+        ...copyTargets.map((target) => {
+          return async function copyBuildOverrideScripts() {
+            await performCopy(target);
+          };
+        }),
+      ),
+    );
+
     // inpage must be built before contentscript
     // because inpage bundle result is included inside contentscript
     const contentscriptSubtask = createTask(
@@ -152,7 +177,10 @@ function createScriptTasks({ browserPlatforms, livereload }) {
     ].map((subtask) => runInChildProcess(subtask));
     // const allSubtasks = [...standardSubtasks, contentscriptSubtask].map(subtask => (subtask))
     // make a parent task that runs each task in a child thread
-    return composeParallel(initiateLiveReload, ...allSubtasks);
+    return composeSeries(
+      copyOverrideScriptsSubTask,
+      composeParallel(initiateLiveReload, ...allSubtasks),
+    );
   }
 
   function createBundleTaskForBuildJsExtensionNormal({
@@ -390,4 +418,22 @@ function beep() {
 function gracefulError(err) {
   console.warn(err);
   beep();
+}
+
+async function performCopy(target) {
+  if (target.pattern) {
+    await copyGlob(target.src, `${target.src}${target.pattern}`, target.dest);
+  } else {
+    await copyGlob(target.src, `${target.src}`, `${target.dest}`);
+  }
+}
+
+async function copyGlob(baseDir, srcGlob, dest) {
+  const sources = await glob(srcGlob, { onlyFiles: false });
+  await Promise.all(
+    sources.map(async (src) => {
+      const relativePath = path.relative(baseDir, src);
+      await fs.copy(src, `${dest}${relativePath}`);
+    }),
+  );
 }
