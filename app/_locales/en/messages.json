@@ -1024,7 +1024,7 @@
     "message": "The connection status button shows if the website you’re visiting is connected to your currently selected account."
   },
   "metamaskDescription": {
-    "message": "Earn free money while using DeFi."
+    "message": "Receive cashbacks on all of your DeFi purchases."
   },
   "metamaskSwapsOfflineDescription": {
     "message": "OctoFi Swaps is undergoing maintenance. Please check back later."
@@ -1776,13 +1776,6 @@
   "swapMaxSlippage": {
     "message": "Max slippage"
   },
-  "swapOctoFiFee": {
-    "message": "OctoFi fee"
-  },
-  "swapOctoFiFeeDescription": {
-    "message": "We find the best price from the top liquidity sources, every time. A fee of $1% is automatically factored into this quote.",
-    "description": "Provides information about the fee that OctoFi takes for swaps. $1 is a decimal number."
-  },
   "swapNQuotes": {
     "message": "$1 quotes",
     "description": "$1 is the number of quotes that the user can select from when opening the list of quotes on the 'view quote' screen"
@@ -1793,6 +1786,13 @@
   "swapNewQuoteIn": {
     "message": "New quotes in $1",
     "description": "Tells the user the amount of time until the currently displayed quotes are update. $1 is a time that is counting down from 1:00 to 0:00"
+  },
+  "swapOctoFiFee": {
+    "message": "OctoFi fee"
+  },
+  "swapOctoFiFeeDescription": {
+    "message": "We find the best price from the top liquidity sources, every time. A fee of $1% is automatically factored into this quote.",
+    "description": "Provides information about the fee that OctoFi takes for swaps. $1 is a decimal number."
   },
   "swapOnceTransactionHasProcess": {
     "message": "Your $1 will be added to your account once this transaction has processed.",
@@ -2160,7 +2160,7 @@
     "message": "Unlock"
   },
   "unlockMessage": {
-    "message": "Earn free money while using DeFi"
+    "message": "Receive cashbacks on all of your DeFi purchases"
   },
   "unrecognizedChain": {
     "message": "This custom network is not recognized. We recommend that you $1 before proceeding",
