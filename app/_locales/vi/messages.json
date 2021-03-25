@@ -1037,8 +1037,8 @@
   "newPassword": {
     "message": "Mật khẩu mới (tối thiểu 8 ký tự)"
   },
-  "newToMetaMask": {
-    "message": "Bạn mới sử dụng MetaMask?"
+  "newToOctoFi": {
+    "message": "Bạn mới sử dụng OctoFi?"
   },
   "newTotal": {
     "message": "Tổng mới"

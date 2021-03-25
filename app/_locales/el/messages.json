@@ -662,8 +662,8 @@
   "newPassword": {
     "message": "Νέος Κωδικός Πρόσβασης (ελάχιστο 8 χαρακτήρες)"
   },
-  "newToMetaMask": {
-    "message": "Καινούριος στο MetaMask;"
+  "newToOctoFi": {
+    "message": "Καινούριος στο OctoFi;"
   },
   "newTotal": {
     "message": "Νέο Σύνολο"

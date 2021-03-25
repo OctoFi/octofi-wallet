@@ -1037,8 +1037,8 @@
   "newPassword": {
     "message": "नया पासवर्ड (न्यूनतम 8 वर्ण)"
   },
-  "newToMetaMask": {
-    "message": "MetaMask पर नए हैं?"
+  "newToOctoFi": {
+    "message": "OctoFi पर नए हैं?"
   },
   "newTotal": {
     "message": "नया कुलयोग"

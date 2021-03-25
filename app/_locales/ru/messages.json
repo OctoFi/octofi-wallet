@@ -1037,8 +1037,8 @@
   "newPassword": {
     "message": "Новый пароль (мин.8 знаков)"
   },
-  "newToMetaMask": {
-    "message": "Впервые в MetaMask?"
+  "newToOctoFi": {
+    "message": "Впервые в OctoFi?"
   },
   "newTotal": {
     "message": "Новая сумма"

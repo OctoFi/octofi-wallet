@@ -652,8 +652,8 @@
   "newPassword": {
     "message": "Nytt passord (minimum 8 tegn)"
   },
-  "newToMetaMask": {
-    "message": "Ny på MetaMask? "
+  "newToOctoFi": {
+    "message": "Ny på OctoFi? "
   },
   "newTotal": {
     "message": "Ny total"

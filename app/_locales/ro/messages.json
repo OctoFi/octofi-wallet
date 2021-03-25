@@ -652,8 +652,8 @@
   "newPassword": {
     "message": "Parola Nouă (minimum 8 caractere)"
   },
-  "newToMetaMask": {
-    "message": "Nefamiliarizat cu MetaMask?"
+  "newToOctoFi": {
+    "message": "Nefamiliarizat cu OctoFi?"
   },
   "newTotal": {
     "message": "Total nou"

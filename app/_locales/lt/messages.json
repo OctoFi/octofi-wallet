@@ -665,8 +665,8 @@
   "newPassword": {
     "message": "Naujas slaptažodis (bent 8 ženklai)"
   },
-  "newToMetaMask": {
-    "message": "Tik pradedate naudotis „MetaMask“?"
+  "newToOctoFi": {
+    "message": "Tik pradedate naudotis „OctoFi?"
   },
   "newTotal": {
     "message": "Nauja bendra suma"

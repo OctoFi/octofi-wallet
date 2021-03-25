@@ -665,8 +665,8 @@
   "newPassword": {
     "message": "নতুন পাসওয়ার্ড (অন্তত 8 অক্ষরের)"
   },
-  "newToMetaMask": {
-    "message": "MetaMask এ নতুন?"
+  "newToOctoFi": {
+    "message": "OctoFi এ নতুন?"
   },
   "newTotal": {
     "message": "নতুন সমষ্টি"

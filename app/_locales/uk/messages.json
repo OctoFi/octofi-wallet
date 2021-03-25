@@ -665,8 +665,8 @@
   "newPassword": {
     "message": "Новий пароль (мінімум 8 символів)"
   },
-  "newToMetaMask": {
-    "message": "Вперше в MetaMask?"
+  "newToOctoFi": {
+    "message": "Вперше в OctoFi?"
   },
   "newTotal": {
     "message": "Новий підсумок"

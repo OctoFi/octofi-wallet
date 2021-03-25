@@ -637,8 +637,8 @@
   "newPassword": {
     "message": "Nové heslo (min 8 znaků)"
   },
-  "newToMetaMask": {
-    "message": "Ste noví na MetaMask?"
+  "newToOctoFi": {
+    "message": "Ste noví na OctoFi?"
   },
   "newTotal": {
     "message": "Nový súčet"

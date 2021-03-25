@@ -661,8 +661,8 @@
   "newPassword": {
     "message": "Jauna parole (vism. 8 rakstzīmes)"
   },
-  "newToMetaMask": {
-    "message": "Nepazīstat MetaMask?"
+  "newToOctoFi": {
+    "message": "Nepazīstat OctoFi?"
   },
   "newTotal": {
     "message": "Jaunā kopsumma"

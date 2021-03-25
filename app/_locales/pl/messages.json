@@ -662,8 +662,8 @@
   "newPassword": {
     "message": "Nowe hasło (min. 8 znaków)"
   },
-  "newToMetaMask": {
-    "message": "Pierwszy raz w MetaMask?"
+  "newToOctoFi": {
+    "message": "Pierwszy raz w OctoFi?"
   },
   "newTotal": {
     "message": "Nowa suma"

@@ -649,8 +649,8 @@
   "newPassword": {
     "message": "Nova contrasenya (mínim 8 caràcters)"
   },
-  "newToMetaMask": {
-    "message": "Nou a MetaMask?"
+  "newToOctoFi": {
+    "message": "Nou a OctoFi?"
   },
   "newTotal": {
     "message": "Nou total"

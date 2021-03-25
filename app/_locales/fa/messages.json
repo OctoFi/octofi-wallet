@@ -665,8 +665,8 @@
   "newPassword": {
     "message": "رمز عبور جدید (حداقل 8 حرف)"
   },
-  "newToMetaMask": {
-    "message": "آیا به MetaMask جدید هستید؟"
+  "newToOctoFi": {
+    "message": "آیا به OctoFi جدید هستید؟"
   },
   "newTotal": {
     "message": "مجموع جدید"

@@ -650,8 +650,8 @@
   "newPassword": {
     "message": "Novo geslo (min 8 znakov)"
   },
-  "newToMetaMask": {
-    "message": "Ste novi na MetaMask?"
+  "newToOctoFi": {
+    "message": "Ste novi na OctoFi?"
   },
   "newTotal": {
     "message": "Novo skupno"

@@ -1049,8 +1049,8 @@
   "newPassword": {
     "message": "新しいパスワード(最低 8文字)"
   },
-  "newToMetaMask": {
-    "message": "MetaMaskは初めてですか?"
+  "newToOctoFi": {
+    "message": "OctoFiは初めてですか?"
   },
   "newTotal": {
     "message": "新しい合計"

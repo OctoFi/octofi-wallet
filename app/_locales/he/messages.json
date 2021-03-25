@@ -662,8 +662,8 @@
   "newPassword": {
     "message": "ססמה חדשה (לפחות 8 תווים)"
   },
-  "newToMetaMask": {
-    "message": "חדש/ה ב- MetaMask?"
+  "newToOctoFi": {
+    "message": "חדש/ה ב- OctoFi?"
   },
   "newTotal": {
     "message": "סכום כולל חדש"

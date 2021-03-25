@@ -1037,8 +1037,8 @@
   "newPassword": {
     "message": "Kata sandi baru (min. 8 karakter)"
   },
-  "newToMetaMask": {
-    "message": "Baru menggunakan MetaMask?"
+  "newToOctoFi": {
+    "message": "Baru menggunakan OctoFi?"
   },
   "newTotal": {
     "message": "Total Baru"

@@ -599,8 +599,8 @@
   "newPassword": {
     "message": "Bagong Password (min 8 char)"
   },
-  "newToMetaMask": {
-    "message": "Bago ka ba sa MetaMask?"
+  "newToOctoFi": {
+    "message": "Bago ka ba sa OctoFi?"
   },
   "newTotal": {
     "message": "Bagong Total"

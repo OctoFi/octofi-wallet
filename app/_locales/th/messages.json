@@ -337,8 +337,8 @@
   "newPassword": {
     "message": "รหัสผ่านใหม่(ขั้นต่ำ 8 ตัวอักษร)"
   },
-  "newToMetaMask": {
-    "message": "เพิ่งเริ่มใช้ MetaMask?"
+  "newToOctoFi": {
+    "message": "เพิ่งเริ่มใช้ OctoFi?"
   },
   "newTransactionFee": {
     "message": "ค่าธรรมเนียมธุรกรรมใหม่"

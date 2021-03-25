@@ -645,8 +645,8 @@
   "newPassword": {
     "message": "Kata Laluan Baru (min 8 aks)"
   },
-  "newToMetaMask": {
-    "message": "Baru mengenali MetaMask?"
+  "newToOctoFi": {
+    "message": "Baru mengenali OctoFi?"
   },
   "newTotal": {
     "message": "Jumlah Keseluruhan Baru"

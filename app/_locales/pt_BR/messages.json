@@ -653,8 +653,8 @@
   "newPassword": {
     "message": "Nova Senha (mín. 8 car.)"
   },
-  "newToMetaMask": {
-    "message": "Novo no MetaMask?"
+  "newToOctoFi": {
+    "message": "Novo no OctoFi?"
   },
   "newTotal": {
     "message": "Total Novo"

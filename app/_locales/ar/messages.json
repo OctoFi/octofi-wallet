@@ -658,8 +658,8 @@
   "newPassword": {
     "message": "كلمة مرور جديدة (8 أحرف كحد أدنى)"
   },
-  "newToMetaMask": {
-    "message": "هل انت جديد في MetaMask؟"
+  "newToOctoFi": {
+    "message": "هل انت جديد في OctoFi؟"
   },
   "newTotal": {
     "message": "إجمالي جديد"

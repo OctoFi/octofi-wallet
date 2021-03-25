@@ -1049,8 +1049,8 @@
   "newPassword": {
     "message": "新密码（至少 8 个字符）"
   },
-  "newToMetaMask": {
-    "message": "第一次使用 MetaMask？"
+  "newToOctoFi": {
+    "message": "第一次使用 OctoFi？"
   },
   "newTotal": {
     "message": "新总额"

@@ -655,8 +655,8 @@
   "newPassword": {
     "message": "Uus parool (vähemalt 8 tähemärki)"
   },
-  "newToMetaMask": {
-    "message": "Pole MetaMaski varem kasutanud?"
+  "newToOctoFi": {
+    "message": "Pole OctoFi varem kasutanud?"
   },
   "newTotal": {
     "message": "Uus kogusumma"

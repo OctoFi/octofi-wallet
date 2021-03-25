@@ -658,8 +658,8 @@
   "newPassword": {
     "message": "Új jelszó (minimum 8 karakter)"
   },
-  "newToMetaMask": {
-    "message": "Új a MetaMask-on?"
+  "newToOctoFi": {
+    "message": "Új a OctoFi-on?"
   },
   "newTotal": {
     "message": "Új végösszeg"

@@ -650,8 +650,8 @@
   "newPassword": {
     "message": "Nouveau mot de passe (min 8 caractères)"
   },
-  "newToMetaMask": {
-    "message": "Nouveau sur MetaMask ?"
+  "newToOctoFi": {
+    "message": "Nouveau sur OctoFi ?"
   },
   "newTotal": {
     "message": "Nouveau total"

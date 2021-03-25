@@ -662,8 +662,8 @@
   "newPassword": {
     "message": "አዲስ የይለፍ ቃል (ቢያንስ 8 ቁምፊዎች)"
   },
-  "newToMetaMask": {
-    "message": "ለ MetaMask አዲስ ነዎት?"
+  "newToOctoFi": {
+    "message": "ለ OctoFi አዲስ ነዎት?"
   },
   "newTotal": {
     "message": "አዲስ ድምር"

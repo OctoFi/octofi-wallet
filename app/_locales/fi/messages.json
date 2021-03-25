@@ -665,8 +665,8 @@
   "newPassword": {
     "message": "Uusi salasana (väh. 8 merkkiä)"
   },
-  "newToMetaMask": {
-    "message": "Onko MetaMask ennestään outo?"
+  "newToOctoFi": {
+    "message": "Onko OctoFi ennestään outo?"
   },
   "newTotal": {
     "message": "Uusi kokonaissumma"

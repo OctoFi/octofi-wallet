@@ -656,8 +656,8 @@
   "newPassword": {
     "message": "Nova lozinka (minimalno 8 karaktera)"
   },
-  "newToMetaMask": {
-    "message": "Novi ste u MetaMask-u?"
+  "newToOctoFi": {
+    "message": "Novi ste u OctoFi-u?"
   },
   "newTotal": {
     "message": "Novi zbir"

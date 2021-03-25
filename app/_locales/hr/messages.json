@@ -658,8 +658,8 @@
   "newPassword": {
     "message": "Nova lozinka (najmanje osam znakova)"
   },
-  "newToMetaMask": {
-    "message": "Novi korisnik usluge MetaMask?"
+  "newToOctoFi": {
+    "message": "Novi korisnik usluge OctoFi?"
   },
   "newTotal": {
     "message": "Novi ukupni zbroj"
