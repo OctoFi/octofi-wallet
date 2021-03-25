@@ -1491,7 +1491,7 @@
     "message": "Select the account to view in OctoFi"
   },
   "selectEachPhrase": {
-    "message": "Please select each phrase in order to make sure it is correct."
+    "message": "Please select each word in order to make sure it is correct."
   },
   "selectHdPath": {
     "message": "Select HD Path"
