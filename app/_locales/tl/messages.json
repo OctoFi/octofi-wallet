@@ -935,7 +935,7 @@
   "metaMaskConnectStatusParagraphTwo": {
     "message": "Makikita sa button ng status ng koneksyon kung nakakonekta ang website na binibisita mo sa kasalukuyan mong napiling account."
   },
-  "metamaskDescription": {
+  "octofiDescription": {
     "message": "Ikinokonekta ka sa Ethereum at sa Decentralized Web."
   },
   "metamaskSwapsOfflineDescription": {

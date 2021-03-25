@@ -947,7 +947,7 @@
   "metaMaskConnectStatusParagraphTwo": {
     "message": "現在選択しているアカウントが訪問中のWebサイトに接続されている場合、接続ステータスボタンが表示されます。"
   },
-  "metamaskDescription": {
+  "octofiDescription": {
     "message": "Ethereumの分散型Webに接続しています。"
   },
   "metamaskSwapsOfflineDescription": {

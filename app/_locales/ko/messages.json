@@ -935,7 +935,7 @@
   "metaMaskConnectStatusParagraphTwo": {
     "message": "방문 중인 웹사이트가 현재 선택된 계정에 연결되어 있다면 연결 상태 버튼이 표시됩니다."
   },
-  "metamaskDescription": {
+  "octofiDescription": {
     "message": "이더리움 및 분산형 웹에 연결합니다."
   },
   "metamaskSwapsOfflineDescription": {

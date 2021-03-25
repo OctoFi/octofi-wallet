@@ -935,7 +935,7 @@
   "metaMaskConnectStatusParagraphTwo": {
     "message": "Кнопка статуса подключения показывает, подключен ли веб-сайт, который вы посещаете, к вашей выбранному в нестоящее врем счету."
   },
-  "metamaskDescription": {
+  "octofiDescription": {
     "message": "Подключение вас к Ethereum и децентрализованной сети."
   },
   "metamaskSwapsOfflineDescription": {

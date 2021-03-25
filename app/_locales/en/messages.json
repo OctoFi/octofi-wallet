@@ -799,7 +799,7 @@
     "message": "Get Help."
   },
   "getStarted": {
-    "message": "Get Started"
+    "message": "Release The Kraken"
   },
   "goerli": {
     "message": "Goerli Test Network"
@@ -1023,8 +1023,8 @@
   "metaMaskConnectStatusParagraphTwo": {
     "message": "The connection status button shows if the website you’re visiting is connected to your currently selected account."
   },
-  "metamaskDescription": {
-    "message": "Receive cashbacks on all of your DeFi purchases."
+  "octofiDescription": {
+    "message": "Get cashbacks when you transact with trusted DeFi and NFT marketplaces across Ethereum and beyond."
   },
   "metamaskSwapsOfflineDescription": {
     "message": "OctoFi Swaps is undergoing maintenance. Please check back later."
@@ -2227,7 +2227,7 @@
     "description": "$1 is a clickable link."
   },
   "welcome": {
-    "message": "Welcome to OctoFi"
+    "message": "OctoFi Wallet"
   },
   "welcomeBack": {
     "message": "Welcome Back!"

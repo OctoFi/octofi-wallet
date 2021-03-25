@@ -935,7 +935,7 @@
   "metaMaskConnectStatusParagraphTwo": {
     "message": "Nút trạng thái kết nối sẽ hiển thị nếu trang web mà bạn đang truy cập được kết nối với tài khoản bạn đang chọn."
   },
-  "metamaskDescription": {
+  "octofiDescription": {
     "message": "Kết nối bạn với Ethereum và Web phi tập trung."
   },
   "metamaskSwapsOfflineDescription": {

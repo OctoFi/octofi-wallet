@@ -52,8 +52,8 @@ export default class Welcome extends PureComponent {
           />
           <div className="welcome-page__header">{t('welcome')}</div>
           <div className="welcome-page__description">
-            <div>{t('metamaskDescription')}</div>
-            <div>{t('happyToSeeYou')}</div>
+            <div>{t('octofiDescription')}</div>
+            {/* <div>{t('happyToSeeYou')}</div> */}
           </div>
           <Button
             type="primary"

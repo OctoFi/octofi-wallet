@@ -947,7 +947,7 @@
   "metaMaskConnectStatusParagraphTwo": {
     "message": "连接状态按钮显示所访问的网站是否与您当前选择的账户连接。"
   },
-  "metamaskDescription": {
+  "octofiDescription": {
     "message": "将您与 Ethereum 和去中心化网络连接起来。"
   },
   "metamaskSwapsOfflineDescription": {

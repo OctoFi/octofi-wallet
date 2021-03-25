@@ -944,7 +944,7 @@
   "metaMaskConnectStatusParagraphTwo": {
     "message": "El botón de estado de conexión muestra si el sitio que está visitando se encuentra conectado a tu cuenta actualmente seleccionada."
   },
-  "metamaskDescription": {
+  "octofiDescription": {
     "message": "Te estamos conectando a Ethereum y a la web descentralizada."
   },
   "metamaskSwapsOfflineDescription": {

@@ -950,7 +950,7 @@
   "metaMaskConnectStatusParagraphTwo": {
     "message": "Il bottone di stato della connessione mostra se il sito che stai visitando è connesso all'account corrente"
   },
-  "metamaskDescription": {
+  "octofiDescription": {
     "message": "MetaMask è una cassaforte sicura per identità su Ethereum."
   },
   "metamaskSwapsOfflineDescription": {

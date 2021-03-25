@@ -935,7 +935,7 @@
   "metaMaskConnectStatusParagraphTwo": {
     "message": "कनेक्शन स्थिति बटन दिखाता है कि आप जिस वेबसाइट पर जा रहे हैं, वह आपके वर्तमान में चयनित खाते से कनेक्ट है।"
   },
-  "metamaskDescription": {
+  "octofiDescription": {
     "message": "आपको Ethereum और विकेंद्रीकृत वेब से कनेक्ट किया जा रहा है।"
   },
   "metamaskSwapsOfflineDescription": {
