@@ -585,35 +585,38 @@
     "message": "Request encryption public key"
   },
   "endOfFlowMessage1": {
-    "message": "You passed the test - keep your seedphrase safe, it's your responsibility!"
+    "message": "You now created your own OctoFi Wallet. Store your seed phrase somewhere safe, and never share it with anyone!"
   },
   "endOfFlowMessage10": {
     "message": "All Done"
   },
   "endOfFlowMessage2": {
-    "message": "Tips on storing it safely"
+    "message": "Tips on using the OctoFi Wallet"
   },
   "endOfFlowMessage3": {
-    "message": "Save a backup in multiple places."
+    "message": "Save a backup of your seed phrase in multiple locations."
   },
   "endOfFlowMessage4": {
-    "message": "Never share the phrase with anyone."
+    "message": "Never share your seed phrase with anyone."
   },
   "endOfFlowMessage5": {
-    "message": "Be careful of phishing! OctoFi will never spontaneously ask for your seed phrase."
+    "message": "Be careful with connecting websites to your OctoFi Wallet. Always double-check before connecting and never fill out your seed phrase!"
   },
   "endOfFlowMessage6": {
-    "message": "If you need to back up your seed phrase again, you can find it in Settings -> Security."
+    "message": "If you have doubts about something, questions, or suggestions. Then join us on $1!",
+    "description": "$1 is the Telegram link"
   },
   "endOfFlowMessage7": {
-    "message": "If you ever have questions or see something fishy, contact our support $1.",
-    "description": "$1 is a clickable link with text defined by the 'here' key. The link will open to a form where users can file support tickets."
+    "message": "Have a great day Frentacle!"
   },
   "endOfFlowMessage8": {
     "message": "OctoFi cannot recover your seedphrase."
   },
   "endOfFlowMessage9": {
     "message": "Learn more."
+  },
+  "telegram": {
+    "message": "Telegram"
   },
   "endpointReturnedDifferentChainId": {
     "message": "The endpoint returned a different chain ID: $1",
