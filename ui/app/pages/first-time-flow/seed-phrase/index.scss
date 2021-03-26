@@ -4,6 +4,7 @@
 .seed-phrase {
   &__sections {
     display: flex;
+    margin-bottom: 8px;
 
     @media screen and (min-width: $break-large) {
       flex-direction: row;

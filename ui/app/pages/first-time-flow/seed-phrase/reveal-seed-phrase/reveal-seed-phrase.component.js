@@ -138,6 +138,12 @@ export default class RevealSeedPhrase extends PureComponent {
             <div className="first-time-flow__text-block">
               {t('secretBackupPhraseWarning')}
             </div>
+            <div className="first-time-flow__text-block first-time-flow__text-block--italic">
+              {t('secretBackupPhraseNote')}
+            </div>
+            <div className="first-time-flow__text-block">
+              {t('secretBackupPhraseLoss')}
+            </div>
             {this.renderSecretWordsContainer()}
           </div>
           <div className="seed-phrase__side">

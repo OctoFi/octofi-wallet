@@ -1468,10 +1468,16 @@
     "message": "Secret Backup Phrase"
   },
   "secretBackupPhraseDescription": {
-    "message": "Your secret backup phrase makes it easy to back up and restore your account."
+    "message": "Your backup phrase enables you to restore your account in case you move to another device, reinstall the extension, or in case you forget your password."
   },
   "secretBackupPhraseWarning": {
-    "message": "WARNING: Never disclose your backup phrase. Anyone with this phrase can take your Ether forever."
+    "message": "The backup phrase should be saved and stored somewhere secure. As this provides direct access to your account, never share your backup phrase with anyone."
+  },
+  "secretBackupPhraseNote": {
+    "message": "Note: This includes conversations, online chats, (decentralized) websites or exchanges that ask you to paste it, etc."
+  },
+  "secretBackupPhraseLoss": {
+    "message": "In case you lose your backup phrase AND your password, there is no way to recover the account."
   },
   "secretPhrase": {
     "message": "Enter your secret twelve word phrase here to restore your vault."
