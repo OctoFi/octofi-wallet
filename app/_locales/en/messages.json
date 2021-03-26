@@ -1035,33 +1035,43 @@
   "metametricsCommitmentsAllowOptOut": {
     "message": "Always allow you to opt-out via Settings"
   },
-  "metametricsCommitmentsBoldNever": {
+  "octofiWill": {
+    "message": "That said, OctoFi will..."
+  },
+  "boldNever": {
     "message": "Never",
     "description": "This string is localized separately from some of the commitments so that we can bold it"
   },
-  "metametricsCommitmentsIntro": {
-    "message": "OctoFi will.."
+  "dontTrustVerify": {
+    "message": "You don’t need to trust a team. You need to verify their work. This movement is permissionless and trust was never part of the equation. We shall dedicate ourselves to exercising these eight principles, to empower others to participate how it was always intended – as autonomous individuals, sovereign from the broken system before us."
   },
   "metametricsCommitmentsNeverCollectIP": {
-    "message": "$1 collect your full IP address",
-    "description": "The $1 is the bolded word 'Never', from 'metametricsCommitmentsBoldNever'"
+    "message": "$1 collect your IP address",
+    "description": "The $1 is the bolded word 'Never', from 'boldNever'"
   },
   "metametricsCommitmentsNeverCollectKeysEtc": {
     "message": "$1 collect keys, addresses, transactions, balances, hashes, or any personal information",
-    "description": "The $1 is the bolded word 'Never', from 'metametricsCommitmentsBoldNever'"
+    "description": "The $1 is the bolded word 'Never', from 'boldNever'"
   },
   "metametricsCommitmentsNeverSellDataForProfit": {
     "message": "$1 sell data for profit. Ever!",
-    "description": "The $1 is the bolded word 'Never', from 'metametricsCommitmentsBoldNever'"
+    "description": "The $1 is the bolded word 'Never', from 'boldNever'"
   },
   "metametricsCommitmentsSendAnonymizedEvents": {
     "message": "Send anonymized click & pageview events"
   },
-  "metametricsHelpImproveOctoFi": {
-    "message": "Help Us Improve OctoFi"
+  "provideCashbacks": {
+    "message": "Provide you with cashbacks on your NFT and DeFi products in an automated & anonymous way."
   },
-  "metametricsOptInDescription": {
-    "message": "OctoFi would like to gather usage data to better understand how our users interact with the extension. This data will be used to continually improve the usability and user experience of our product and the Ethereum ecosystem."
+  "octoFiGuidingPrinciples": {
+    "message": "Guiding Principles"
+  },
+  "principlesDescription": {
+    "message": "OctoFi exists because of eight guiding principles. Without them we lose sight of the cypherpunk ethos that birthed a grassroots movement in pursuit of decentralization. We encourage you to check these out $1.",
+    "description": "$1 is a clickable link with text defined by the 'principlesDescriptionLink' key"
+  },
+  "principlesLink": {
+    "message": "here"
   },
   "mismatchedChain": {
     "message": "This network details for this Chain ID do not match our records. We recommend that you $1 before proceeding.",

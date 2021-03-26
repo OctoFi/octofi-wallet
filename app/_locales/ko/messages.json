@@ -947,32 +947,32 @@
   "metametricsCommitmentsAllowOptOut": {
     "message": "언제든 설정을 통해 옵트아웃할 수 있습니다."
   },
-  "metametricsCommitmentsBoldNever": {
+  "boldNever": {
     "message": "절대",
     "description": "This string is localized separately from some of the commitments so that we can bold it"
   },
-  "metametricsCommitmentsIntro": {
+  "dontTrustVerify": {
     "message": "MetaMask에서는.."
   },
   "metametricsCommitmentsNeverCollectIP": {
     "message": "전체 IP 주소를 $1 수집하지 않습니다.",
-    "description": "The $1 is the bolded word 'Never', from 'metametricsCommitmentsBoldNever'"
+    "description": "The $1 is the bolded word 'Never', from 'boldNever'"
   },
   "metametricsCommitmentsNeverCollectKeysEtc": {
     "message": "키, 주소, 거래, 잔액, 해시 또는 개인 정보를 $1 수집하지 않습니다.",
-    "description": "The $1 is the bolded word 'Never', from 'metametricsCommitmentsBoldNever'"
+    "description": "The $1 is the bolded word 'Never', from 'boldNever'"
   },
   "metametricsCommitmentsNeverSellDataForProfit": {
     "message": "수익을 위해 데이터를 $1 판매하지 않습니다.",
-    "description": "The $1 is the bolded word 'Never', from 'metametricsCommitmentsBoldNever'"
+    "description": "The $1 is the bolded word 'Never', from 'boldNever'"
   },
   "metametricsCommitmentsSendAnonymizedEvents": {
     "message": "익명화된 클릭 및 페이지뷰 이벤트 보내기"
   },
-  "metametricsHelpImproveMetaMask": {
+  "octoFiGuidingPrinciples": {
     "message": "MetaMask 개선에 참여"
   },
-  "metametricsOptInDescription": {
+  "principlesDescription": {
     "message": "MetaMask는 사용자의 확장 사용 방식을 더 잘 이해하기 위해 사용 데이터를 수집하려 합니다. 이 데이터는 제품과 이더리움 생태계의 사용 편의성과 사용자 경험을 지속적으로 개선하는 데 사용됩니다."
   },
   "mobileSyncText": {

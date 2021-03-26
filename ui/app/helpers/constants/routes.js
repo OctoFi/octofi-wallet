@@ -53,6 +53,7 @@ const INITIALIZE_BACKUP_SEED_PHRASE_ROUTE = '/initialize/backup-seed-phrase';
 const INITIALIZE_END_OF_FLOW_ROUTE = '/initialize/end-of-flow';
 const INITIALIZE_CONFIRM_SEED_PHRASE_ROUTE = '/initialize/seed-phrase/confirm';
 const INITIALIZE_METAMETRICS_OPT_IN_ROUTE = '/initialize/metametrics-opt-in';
+const INITIALIZE_GUIDING_PRINCIPLES_ROUTE = '/initialize/guiding-principles';
 
 const CONFIRM_TRANSACTION_ROUTE = '/confirm-transaction';
 const CONFIRM_SEND_ETHER_PATH = '/send-ether';
@@ -130,6 +131,7 @@ const PATH_NAME_MAP = {
   [INITIALIZE_CONFIRM_SEED_PHRASE_ROUTE]:
     'Initialization Confirm Seed Phrase Page',
   [INITIALIZE_METAMETRICS_OPT_IN_ROUTE]: 'MetaMetrics Opt In Page',
+  [INITIALIZE_GUIDING_PRINCIPLES_ROUTE]: 'Guiding Principles Page',
   [BUILD_QUOTE_ROUTE]: 'Swaps Build Quote Page',
   [VIEW_QUOTE_ROUTE]: 'Swaps View Quotes Page',
   [LOADING_QUOTES_ROUTE]: 'Swaps Loading Quotes Page',
@@ -175,6 +177,7 @@ export {
   ENCRYPTION_PUBLIC_KEY_REQUEST_PATH,
   CONFIRMATION_V_NEXT_ROUTE,
   INITIALIZE_METAMETRICS_OPT_IN_ROUTE,
+  INITIALIZE_GUIDING_PRINCIPLES_ROUTE,
   ADVANCED_ROUTE,
   SECURITY_ROUTE,
   GENERAL_ROUTE,

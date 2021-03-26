@@ -947,32 +947,32 @@
   "metametricsCommitmentsAllowOptOut": {
     "message": "Всегда разрешать вам отказаться через настройки"
   },
-  "metametricsCommitmentsBoldNever": {
+  "boldNever": {
     "message": "Никогда",
     "description": "This string is localized separately from some of the commitments so that we can bold it"
   },
-  "metametricsCommitmentsIntro": {
+  "dontTrustVerify": {
     "message": "MetaMask не будет..."
   },
   "metametricsCommitmentsNeverCollectIP": {
     "message": "$1 не сохранять ваш полный IP-адрес",
-    "description": "The $1 is the bolded word 'Never', from 'metametricsCommitmentsBoldNever'"
+    "description": "The $1 is the bolded word 'Never', from 'boldNever'"
   },
   "metametricsCommitmentsNeverCollectKeysEtc": {
     "message": "$1 не хранить ключи, адреса, транзакции, балансы, хэши или любую персональную информацию",
-    "description": "The $1 is the bolded word 'Never', from 'metametricsCommitmentsBoldNever'"
+    "description": "The $1 is the bolded word 'Never', from 'boldNever'"
   },
   "metametricsCommitmentsNeverSellDataForProfit": {
     "message": "$1 не продавать данные для прибыли. Никогда!",
-    "description": "The $1 is the bolded word 'Never', from 'metametricsCommitmentsBoldNever'"
+    "description": "The $1 is the bolded word 'Never', from 'boldNever'"
   },
   "metametricsCommitmentsSendAnonymizedEvents": {
     "message": "Отправлять анонимизированные события кликов и просмотров страниц"
   },
-  "metametricsHelpImproveMetaMask": {
+  "octoFiGuidingPrinciples": {
     "message": "Помогите нам улучшить MetaMask"
   },
-  "metametricsOptInDescription": {
+  "principlesDescription": {
     "message": "MetaMask хотел бы собрать основные данные об использовании, чтобы лучше понять, как наши пользователи взаимодействуют с расширением. Эти данные будут использоваться для постоянного улучшения удобства и опыта использования нашего продукта и экосистемы Ethereum."
   },
   "mobileSyncText": {

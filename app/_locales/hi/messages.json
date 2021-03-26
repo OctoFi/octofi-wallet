@@ -947,32 +947,32 @@
   "metametricsCommitmentsAllowOptOut": {
     "message": "हमेशा आपको सेटिंग्स के माध्यम से ऑप्ट-आउट करने की अनुमति दें"
   },
-  "metametricsCommitmentsBoldNever": {
+  "boldNever": {
     "message": "कभी नहीं",
     "description": "This string is localized separately from some of the commitments so that we can bold it"
   },
-  "metametricsCommitmentsIntro": {
+  "dontTrustVerify": {
     "message": "MetaMask निम्न चीज़ें करेगा.."
   },
   "metametricsCommitmentsNeverCollectIP": {
     "message": "$1 आपका पूरा IP पता एकत्र करेगा",
-    "description": "The $1 is the bolded word 'Never', from 'metametricsCommitmentsBoldNever'"
+    "description": "The $1 is the bolded word 'Never', from 'boldNever'"
   },
   "metametricsCommitmentsNeverCollectKeysEtc": {
     "message": "$1 कुंजी, पते, लेनदेन, शेषराशि, हैश या कोई भी व्यक्तिगत जानकारी एकत्र करता है",
-    "description": "The $1 is the bolded word 'Never', from 'metametricsCommitmentsBoldNever'"
+    "description": "The $1 is the bolded word 'Never', from 'boldNever'"
   },
   "metametricsCommitmentsNeverSellDataForProfit": {
     "message": "$1 लाभ के लिए डेटा बेचता है। हमेशा!",
-    "description": "The $1 is the bolded word 'Never', from 'metametricsCommitmentsBoldNever'"
+    "description": "The $1 is the bolded word 'Never', from 'boldNever'"
   },
   "metametricsCommitmentsSendAnonymizedEvents": {
     "message": "बेनाम क्लिक और पेजव्यू ईवेंट भेजें"
   },
-  "metametricsHelpImproveMetaMask": {
+  "octoFiGuidingPrinciples": {
     "message": "MetaMask को बेहतर बनाने में हमारी मदद करें"
   },
-  "metametricsOptInDescription": {
+  "principlesDescription": {
     "message": "MetaMask इस बात की बेहतर समझ प्राप्त करने के लिए डेटा एकत्र करना चाहता है कि हमारे उपयोगकर्ता विस्तार के साथ कैसे सहभागिता करते हैं। इस डेटा का उपयोग हमारे उत्पाद और Ethereum पारिस्थितिकी तंत्र की उपयोगिता और उपयोगकर्ता अनुभव को लगातार सुधारने के लिए किया जाएगा।"
   },
   "mobileSyncText": {

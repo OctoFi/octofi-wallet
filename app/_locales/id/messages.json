@@ -947,32 +947,32 @@
   "metametricsCommitmentsAllowOptOut": {
     "message": "Selalu izinkan Anda untuk menyisih melalui Pengaturan"
   },
-  "metametricsCommitmentsBoldNever": {
+  "boldNever": {
     "message": "Jangan",
     "description": "This string is localized separately from some of the commitments so that we can bold it"
   },
-  "metametricsCommitmentsIntro": {
+  "dontTrustVerify": {
     "message": "MetaMask akan.."
   },
   "metametricsCommitmentsNeverCollectIP": {
     "message": "$1 mengumpulkan alamat IP lengkap Anda",
-    "description": "The $1 is the bolded word 'Never', from 'metametricsCommitmentsBoldNever'"
+    "description": "The $1 is the bolded word 'Never', from 'boldNever'"
   },
   "metametricsCommitmentsNeverCollectKeysEtc": {
     "message": "$1 mengumpulkan kunci, alamat, transaksi, saldo, hash, atau informasi pribadi lainnya",
-    "description": "The $1 is the bolded word 'Never', from 'metametricsCommitmentsBoldNever'"
+    "description": "The $1 is the bolded word 'Never', from 'boldNever'"
   },
   "metametricsCommitmentsNeverSellDataForProfit": {
     "message": "$1 menjual data untuk mendapatkan keuntungan. Selamanya!",
-    "description": "The $1 is the bolded word 'Never', from 'metametricsCommitmentsBoldNever'"
+    "description": "The $1 is the bolded word 'Never', from 'boldNever'"
   },
   "metametricsCommitmentsSendAnonymizedEvents": {
     "message": "Kirim kejadian pageview & klik anonim"
   },
-  "metametricsHelpImproveMetaMask": {
+  "octoFiGuidingPrinciples": {
     "message": "Bantu Kami Menyempurnakan MetaMask"
   },
-  "metametricsOptInDescription": {
+  "principlesDescription": {
     "message": "MetaMask ingin mengumpulkan data penggunaan untuk lebih memahami cara pengguna berinteraksi dengan ekstensi. Data ini akan digunakan untuk secara kontinu memperbaiki kegunaan dan pengalaman pengguna atas produk kami dan ekosistem Ethereum."
   },
   "mobileSyncText": {

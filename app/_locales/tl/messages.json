@@ -947,32 +947,32 @@
   "metametricsCommitmentsAllowOptOut": {
     "message": "Palagi kang papayagang mag-opt out sa pamamagitan ng Mga Setting"
   },
-  "metametricsCommitmentsBoldNever": {
+  "boldNever": {
     "message": "Huwag Kailanman",
     "description": "This string is localized separately from some of the commitments so that we can bold it"
   },
-  "metametricsCommitmentsIntro": {
+  "dontTrustVerify": {
     "message": "Gagawin ng MetaMask ang sumusunod..."
   },
   "metametricsCommitmentsNeverCollectIP": {
     "message": "$1 kolektahin ang iyong IP address",
-    "description": "The $1 is the bolded word 'Never', from 'metametricsCommitmentsBoldNever'"
+    "description": "The $1 is the bolded word 'Never', from 'boldNever'"
   },
   "metametricsCommitmentsNeverCollectKeysEtc": {
     "message": "$1 nangongolekta ng mga key, address, transaksyon, balanse, hash, o anumang personal na impormasyon",
-    "description": "The $1 is the bolded word 'Never', from 'metametricsCommitmentsBoldNever'"
+    "description": "The $1 is the bolded word 'Never', from 'boldNever'"
   },
   "metametricsCommitmentsNeverSellDataForProfit": {
     "message": "$1 nagbebenta ng data para pagkakitaan. Kahit kailan!",
-    "description": "The $1 is the bolded word 'Never', from 'metametricsCommitmentsBoldNever'"
+    "description": "The $1 is the bolded word 'Never', from 'boldNever'"
   },
   "metametricsCommitmentsSendAnonymizedEvents": {
     "message": "Magpapadala ng mga anonymous na kaganapang pag-click at pagtingin sa page"
   },
-  "metametricsHelpImproveMetaMask": {
+  "octoFiGuidingPrinciples": {
     "message": "Tulungan Kaming Mapahusay ang MetaMask"
   },
-  "metametricsOptInDescription": {
+  "principlesDescription": {
     "message": "Gustong kunin ng MetaMask ang data ng paggamit para mas maunawaan kung paano ginagamit ng mga user namin ang extension. Gagamitin ang data na ito para patuloy na mapahusay ang kakayahang magamit at karanasan ng user sa paggamit ng produkto namin at Ethereum ecosystem."
   },
   "mobileSyncText": {

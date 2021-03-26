@@ -959,32 +959,32 @@
   "metametricsCommitmentsAllowOptOut": {
     "message": "設定からいつでも離脱できます"
   },
-  "metametricsCommitmentsBoldNever": {
+  "boldNever": {
     "message": "実行しない",
     "description": "This string is localized separately from some of the commitments so that we can bold it"
   },
-  "metametricsCommitmentsIntro": {
+  "dontTrustVerify": {
     "message": "MetaMaskが実行する内容は…"
   },
   "metametricsCommitmentsNeverCollectIP": {
     "message": "$1 が識別可能なIPアドレスを収集することはありません",
-    "description": "The $1 is the bolded word 'Never', from 'metametricsCommitmentsBoldNever'"
+    "description": "The $1 is the bolded word 'Never', from 'boldNever'"
   },
   "metametricsCommitmentsNeverCollectKeysEtc": {
     "message": "$1 は、キー、アドレス、トランザクション、残高、ハッシュなど、いかなる個人情報も収集しません",
-    "description": "The $1 is the bolded word 'Never', from 'metametricsCommitmentsBoldNever'"
+    "description": "The $1 is the bolded word 'Never', from 'boldNever'"
   },
   "metametricsCommitmentsNeverSellDataForProfit": {
     "message": "$1 が営利目的でデータを販売することは'永遠に'ありません。",
-    "description": "The $1 is the bolded word 'Never', from 'metametricsCommitmentsBoldNever'"
+    "description": "The $1 is the bolded word 'Never', from 'boldNever'"
   },
   "metametricsCommitmentsSendAnonymizedEvents": {
     "message": "匿名化されたクリックイベントとページビューイベントを送信する"
   },
-  "metametricsHelpImproveMetaMask": {
+  "octoFiGuidingPrinciples": {
     "message": "MetaMaskの品質向上へのご協力のお願い"
   },
-  "metametricsOptInDescription": {
+  "principlesDescription": {
     "message": "MetaMaskでは、ユーザーによる拡張機能の操作方法をより理解するため、基本的な使用状況データを収集させて頂きたいと考えています。このデータは、我々の製品およびEthereumエコシステムの使いやすさとユーザーエクスペリエンスを継続的に改善するために使用されます。"
   },
   "mobileSyncText": {
