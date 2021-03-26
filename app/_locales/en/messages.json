@@ -866,7 +866,7 @@
     "message": "Import using account seed phrase"
   },
   "importWallet": {
-    "message": "Import wallet"
+    "message": "Or, import an existing MetaMask wallet using a 12 word seed phrase."
   },
   "importYourExisting": {
     "message": "Import your existing wallet using a 12 word seed phrase"
@@ -973,7 +973,7 @@
     "message": "You need to make use your last account before you can add a new one."
   },
   "letsGoSetUp": {
-    "message": "Yes, let’s get set up!"
+    "message": "Let’s get set up!"
   },
   "likeToAddTokens": {
     "message": "Would you like to add these tokens?"
@@ -1147,6 +1147,15 @@
   },
   "newToOctoFi": {
     "message": "OctoFi Wallet"
+  },
+  "newDescription": {
+    "message": "OctoFi Wallet gives you cashback when you transact with many of the top DeFi, NFT, and instant exchange websites."
+  },
+  "newDescriptionChoose": {
+    "message": "You can choose to set up a new account, or to import an existing wallet. Data is stored locally on your device only."
+  },
+  "newDescriptionLearn": {
+    "message": "Learn more about the community, platform and team on our forum, where you can read our investor prospectus, transparency reports and security audits."
   },
   "newTotal": {
     "message": "New Total"
@@ -2033,7 +2042,7 @@
     "message": "Test Faucet"
   },
   "thisWillCreate": {
-    "message": "This will create a new wallet and seed phrase"
+    "message": "This will create a new wallet and seed phrase, back this up in a secure place."
   },
   "tips": {
     "message": "Tips"

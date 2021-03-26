@@ -8,6 +8,8 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    max-width: 420px;
+    margin: 0 auto;
   }
 
   &__body-header {
@@ -20,8 +22,8 @@
 
   &__select-buttons {
     display: flex;
-    flex-direction: row;
-    margin-top: 40px;
+    flex-direction: column;
+    margin-top: 20px;
   }
 
   &__select-button {
@@ -29,12 +31,11 @@
     flex-direction: column;
     align-items: center;
     justify-content: space-evenly;
-    width: 388px;
     height: 278px;
     border: 1px solid #d8d8d8;
     box-sizing: border-box;
     border-radius: 10px;
-    margin-left: 22px;
+    padding: 16px;
 
     .first-time-flow__button {
       max-width: 221px;
@@ -44,7 +45,7 @@
 
   &__button-symbol {
     color: #c4c4c4;
-    margin-top: 41px;
+    margin-top: 25px;
   }
 
   &__button-content {
@@ -52,7 +53,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 144px;
+
   }
 
   &__button-text-big {
@@ -74,5 +75,18 @@
   button {
     font-weight: 500;
     width: 221px;
+  }
+
+  &__description {
+    margin-top: 40px;
+
+    p {
+      margin-bottom: 8px;
+    }
+  }
+
+  &__import {
+    margin-top: 16px;
+    text-align: center;
   }
 }

@@ -43,30 +43,12 @@ export default class SelectAction extends PureComponent {
 
         <div className="select-action__wrapper">
           <div className="select-action__body">
-            <div className="select-action__body-header">
-              {t('newToMetaMask')}
+            <div className="select-action__body-header">{t('newToOctoFi')}</div>
+            <div className="select-action__description">
+              <p>{t('newDescription')}</p>
+              <p>{t('newDescriptionChoose')}</p>
             </div>
             <div className="select-action__select-buttons">
-              <div className="select-action__select-button">
-                <div className="select-action__button-content">
-                  <div className="select-action__button-symbol">
-                    <img src="/images/download-alt.svg" alt="" />
-                  </div>
-                  <div className="select-action__button-text-big">
-                    {t('noAlreadyHaveSeed')}
-                  </div>
-                  <div className="select-action__button-text-small">
-                    {t('importYourExisting')}
-                  </div>
-                </div>
-                <Button
-                  type="primary"
-                  className="first-time-flow__button"
-                  onClick={this.handleImport}
-                >
-                  {t('importWallet')}
-                </Button>
-              </div>
               <div className="select-action__select-button">
                 <div className="select-action__button-content">
                   <div className="select-action__button-symbol">
@@ -86,6 +68,15 @@ export default class SelectAction extends PureComponent {
                 >
                   {t('createAWallet')}
                 </Button>
+              </div>
+
+              <div className="select-action__import">
+                <a
+                  className="first-time-flow__import"
+                  onClick={this.handleImport}
+                >
+                  {t('importWallet')}
+                </a>
               </div>
             </div>
           </div>
