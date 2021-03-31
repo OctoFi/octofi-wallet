@@ -869,7 +869,7 @@
     "message": "Import using account seed phrase"
   },
   "importWallet": {
-    "message": "Or, import an existing MetaMask wallet using a 12 word seed phrase."
+    "message": "Or import an existing wallet using a 12 word seed phrase."
   },
   "importYourExisting": {
     "message": "Import your existing wallet using a 12 word seed phrase"
