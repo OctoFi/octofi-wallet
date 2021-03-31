@@ -1780,19 +1780,28 @@
     "message": "Want to learn more?"
   },
   "swapIntroLearnMoreLink": {
-    "message": "Learn more about OctoFi Swaps"
+    "message": "Learn more about OctoFi"
   },
   "swapIntroLiquiditySourcesLabel": {
     "message": "Liquidity sources include:"
   },
+  "swapIntroMarketplacesLabel": {
+    "message": "Marketplaces include:"
+  },
   "swapIntroPopupSubTitle": {
-    "message": "You can now swap tokens directly in your OctoFi wallet. OctoFi Swaps combines multiple decentralized exchange aggregators, professional market makers, and individual DEXs to ensure OctoFi users always get the best price with the lowest network fees."
+    "message": "Start earning cashbacks when you transact with our referral partners. We get paid a commission and pass through 40% back to you and the remaining 60% to our token holders."
   },
   "swapIntroPopupTitle": {
-    "message": "Token swapping is here!"
+    "message": "Free crypto. Octomatically!"
   },
   "swapLearnMoreContractsAuditReview": {
     "message": "Review our official contracts audit"
+  },
+  "swapBuyEth": {
+    "message": "Need to buy some ETH?"
+  },
+  "browseReferralPartners": {
+    "message": "Browse referral partners"
   },
   "swapLowSlippageError": {
     "message": "Transaction may fail, max slippage too low."
