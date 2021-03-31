@@ -1158,6 +1158,9 @@
   "newPassword": {
     "message": "New password (min 8 chars)"
   },
+  "passwordDescription": {
+    "message": "Make sure to back up your password somewhere safe, and make sure the password cannot easily be guessed. The ocean is full of fishermen and pirates."
+  },
   "newToOctoFi": {
     "message": "OctoFi Wallet"
   },
