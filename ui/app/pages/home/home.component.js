@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 import { Redirect, Route } from 'react-router-dom';
 import { formatDate } from '../../helpers/utils/util';
 import AssetList from '../../components/app/asset-list';
+import Collectibles from '../../components/app/collectibles';
 import HomeNotification from '../../components/app/home-notification';
 import MultipleNotifications from '../../components/app/multiple-notifications';
 import TransactionList from '../../components/app/transaction-list';
@@ -367,6 +368,19 @@ export default class Home extends PureComponent {
                 name={t('assets')}
               >
                 <AssetList
+                  onClickAsset={(asset) =>
+                    history.push(`${ASSET_ROUTE}/${asset}`)
+                  }
+                />
+              </Tab>
+              <Tab
+                activeClassName="home__tab--active"
+                className="home__tab"
+                data-testid="home__nft-tab"
+                name={t('collectibles')}
+              >
+                {/* TODO: fix asset_route */}
+                <Collectibles
                   onClickAsset={(asset) =>
                     history.push(`${ASSET_ROUTE}/${asset}`)
                   }
