@@ -72,7 +72,10 @@ export default function IntroPopup({ onClose }) {
             {t('swapIntroMarketplacesLabel')}
           </div>
           <div className="intro-popup__source-logo-container">
-            <img src="images/source-logos-all.svg" alt="" />
+            <img
+              src="images/referral-partners-grouped.png"
+              alt="Referral Partners"
+            />
           </div>
           <div className="intro-popup__learn-more-header">
             {t('swapIntroLearnMoreHeader')}

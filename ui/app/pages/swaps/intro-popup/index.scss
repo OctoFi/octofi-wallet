@@ -50,9 +50,13 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 20px 16px;
-    background: $Grey-000;
+    padding: 0 16px;
+    background: #000;
     border-radius: 8px;
+
+    img {
+      max-width: 100%;
+    }
 
     @media screen and (min-width: 576px) {
       width: 412px;
