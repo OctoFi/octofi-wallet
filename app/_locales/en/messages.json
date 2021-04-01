@@ -344,7 +344,7 @@
     "message": "$1 accounts",
     "description": "$1 is the number of accounts to which the web3 site/application is asking to connect; this will substitute $1 in connectToMultiple"
   },
-  "connectWithOctoFi": {
+  "connectWithMetaMask": {
     "message": "Connect With OctoFi"
   },
   "connectedAccountsDescriptionPlural": {
@@ -499,7 +499,7 @@
     "message": "$1 would like to read this message to complete your action",
     "description": "$1 is the web3 site name"
   },
-  "decryptOctoFi": {
+  "decryptMetamask": {
     "message": "Decrypt message"
   },
   "decryptRequest": {
@@ -1830,10 +1830,10 @@
     "message": "New quotes in $1",
     "description": "Tells the user the amount of time until the currently displayed quotes are update. $1 is a time that is counting down from 1:00 to 0:00"
   },
-  "swapOctoFiFee": {
+  "swapMetaMaskFee": {
     "message": "OctoFi fee"
   },
-  "swapOctoFiFeeDescription": {
+  "swapMetaMaskFeeDescription": {
     "message": "We find the best price from the top liquidity sources, every time. A fee of $1% is automatically factored into this quote.",
     "description": "Provides information about the fee that OctoFi takes for swaps. $1 is a decimal number."
   },
