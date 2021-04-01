@@ -31,7 +31,7 @@ export default class ImportWithSeedPhrase extends PureComponent {
     seedPhraseError: '',
     passwordError: '',
     confirmPasswordError: '',
-    termsChecked: false,
+    termsChecked: true,
   };
 
   parseSeedPhrase = (seedPhrase) =>
@@ -305,34 +305,6 @@ export default class ImportWithSeedPhrase extends PureComponent {
           margin="normal"
           largeLabel
         />
-        <div
-          className="first-time-flow__checkbox-container"
-          onClick={this.toggleTermsCheck}
-        >
-          <div
-            className="first-time-flow__checkbox first-time-flow__terms"
-            tabIndex="0"
-            role="checkbox"
-            onKeyPress={this.onTermsKeyPress}
-            aria-checked={termsChecked}
-            aria-labelledby="ftf-chk1-label"
-          >
-            {termsChecked ? <i className="fa fa-check fa-2x" /> : null}
-          </div>
-          <span id="ftf-chk1-label" className="first-time-flow__checkbox-label">
-            {t('acceptTermsOfUse', [
-              <a
-                onClick={(e) => e.stopPropagation()}
-                key="first-time-flow__link-text"
-                href="https://metamask.io/terms.html"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <span className="first-time-flow__link-text">{t('terms')}</span>
-              </a>,
-            ])}
-          </span>
-        </div>
         <Button
           type="primary"
           submit
