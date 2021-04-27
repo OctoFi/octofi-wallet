@@ -51,11 +51,4 @@ describe('Security Tab', function () {
     phishDetect.simulate('click');
     assert(props.setUsePhishDetect.calledOnce);
   });
-
-  it('toggles metaMetrics', function () {
-    const metaMetrics = wrapper.find({ type: 'checkbox' }).at(2);
-
-    metaMetrics.simulate('click');
-    assert(props.setParticipateInMetaMetrics.calledOnce);
-  });
 });
